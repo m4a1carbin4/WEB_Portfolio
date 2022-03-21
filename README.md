@@ -57,5 +57,5 @@ PUT_updateuser : (PUT)http://ec2-3-142-225-181.us-east-2.compute.amazonaws.com:9
 DELETE_user : (DELETE)http://ec2-3-142-225-181.us-east-2.compute.amazonaws.com:9000/delete/:"username" 
 
 # 작업내역에 따라 추가적인 작업물들이 준비될 예정.
-그러니 일하자 주인장.
+그러니 일하자 주인장놈아.
 
