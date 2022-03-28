@@ -57,6 +57,14 @@ PUT_updateuser : (PUT)http://ec2-3-142-225-181.us-east-2.compute.amazonaws.com:9
 
 DELETE_user : (DELETE)http://ec2-3-142-225-181.us-east-2.compute.amazonaws.com:9000/delete/:"username" 
 
+# Socket.io 기반 웹 익명채팅 서비스
+
+SERVICE_URL : [Socket.io 실습 예제](http://ec2-3-142-225-181.us-east-2.compute.amazonaws.com:3000 "Socket.io 실습 예제")
+
+서비스 디자인 : html 템플릿 사용.
+
+CopyRight_License : [License.](https://codepen.io/license/pen/YzYNdPr "License.")
+
 # 작업내역에 따라 추가적인 작업물들이 준비될 예정.
 그러니 일하자 주인장놈아.
 
