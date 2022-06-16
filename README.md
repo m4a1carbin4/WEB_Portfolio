@@ -65,6 +65,25 @@ SERVICE_URL : [Socket.io 실습 예제](http://ec2-3-142-225-181.us-east-2.compu
 
 CopyRight_License : [License.](https://codepen.io/license/pen/YzYNdPr "License.")
 
+# 자바 웹 소켓 활용 채팅 및 온라인 게임 플레이 프로젝트
+
+2021년도 네트워크 및 실습 수업 최종 프로젝트 (부 깃허브 계정)
+
+온라인 게임 서버 (게임 : 502 스타즈(Open Source)) : [REPO](https://github.com/WaGaNaWa-EingEing/NetWork_turm_project "REPO")
+
+# WiFi RSSI Indoor Positioning project
+
+2022년도 센서와 네트워크 수업 최종 프로젝트 (부 깃허브 계정)
+
+가천대 AI공학관 2,4,5층 실내 WiFI 포지셔닝 : [REPO](https://github.com/WaGaNaWa-EingEing/2022_gachon_Sensor_TermProject_result "REPO")
+
+# Youtube and Tweeter playlist or notification to tweet automation project
+
+Youtube pubsubhubbub to twitter tweet(Twitch Streamer GANGZI Clips Channel Custom) : [REPO](https://github.com/m4a1carbin4/Gang_clip_twitter_uploader "REPO")
+
+Youtube playlist to twitter tweet : [REPO](https://github.com/m4a1carbin4/node.js_youtube_api "REPO")
+
+
 # 작업내역에 따라 추가적인 작업물들이 준비될 예정.
 그러니 일하자 주인장놈아.
 
