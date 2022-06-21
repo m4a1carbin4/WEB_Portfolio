@@ -83,6 +83,18 @@ Youtube pubsubhubbub to twitter tweet(Twitch Streamer GANGZI Clips Channel Custo
 
 Youtube playlist to twitter tweet : [REPO](https://github.com/m4a1carbin4/node.js_youtube_api "REPO")
 
+# Android Tour To Korea project
+
+2022년도 모바일 프로그래밍 수업 최종 프로젝트
+
+Tour To Korea : [REPO](https://github.com/m4a1carbin4/TourToKorea "REPO")
+
+# Android FixIt project
+
+2022년도 소프트웨어 공학 수업 최종 프로젝트
+
+안드로이드 파이어 베이스 기반 게시판 기능 담당. : [REPO](https://github.com/m4a1carbin4/FIxIt "REPO")
+
 
 # 작업내역에 따라 추가적인 작업물들이 준비될 예정.
 그러니 일하자 주인장놈아.
